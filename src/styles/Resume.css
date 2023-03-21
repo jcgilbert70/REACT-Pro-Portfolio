@@ -7,8 +7,9 @@ header.resume {
 .resume section {
     padding: 25px 30px 20px;
     margin-bottom: 30px;
-    background-color: var(--champagne);
+    background-color: rgb(206, 229, 236);
     box-shadow: 0 15px 10px -15px #000000;
+    border-radius: 10px;
 }
 
 .company {

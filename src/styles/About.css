@@ -12,8 +12,8 @@
 .avatar img {
     width: 200px;
     height: 200px;
-    background-color: var(--paleDogwood);
-    border: 8px solid var(--paleDogwood);
+    background-color: var(black);
+    border: 8px solid var(black);
     border-radius: 50%;
     box-shadow: 3px 15px 30px -15px #000000;
 } 
