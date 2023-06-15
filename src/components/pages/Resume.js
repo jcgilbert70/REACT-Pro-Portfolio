@@ -26,7 +26,7 @@ export default function Resume() {
         <section>
           <div className="company">
             <span><strong>Steiner Electric</strong> &bull; <em>Branch Manager</em></span>
-            <span className="date">March 2020 - July 2022</span>
+            <span className="date">January 2016 - August 2021</span>
           </div>
           <ul>
             <li>All branch functions for St Charles and Crystal Lake locations</li>
@@ -41,7 +41,7 @@ export default function Resume() {
         <section>
           <div className="company">
             <span><strong>Steiner Electric</strong> &bull; <em>Assistanct Branch Manager</em></span>
-            <span className="date">May 2019 - March 2020</span>
+            <span className="date">July 2015 - January 2016</span>
           </div>
           <ul>
             <li>Continued all Operations Managers responsibilities and took on managing a 2nd branch</li>
@@ -54,7 +54,7 @@ export default function Resume() {
         <section>
           <div className="company">
             <span><strong>Steiner Electric</strong> &bull; <em>Operations Manager</em></span>
-            <span className="date">February 2018 - May 2019</span>
+            <span className="date">January 2015 - July 2015</span>
           </div>
           <ul>
             <li>Managed Inside Sales, Will Call, Warehouse Operations</li>
@@ -68,7 +68,7 @@ export default function Resume() {
         <section>
           <div className="company">
             <span><strong>Steiner Electric</strong> &bull; <em>Warehouse Manager</em></span>
-            <span className="date">March 2013 - February 2018</span>
+            <span className="date">March 2013 - January 2015</span>
           </div>
           <ul>
             <li>All outbound deliveries, 3rd party Messengers, UPS/FedEx, and LTL</li>
@@ -78,6 +78,11 @@ export default function Resume() {
             <li>Safety Coordinator</li>
             <li>Maintain all training of warehouse staff</li>
           </ul>
+        </section>
+
+        <section>
+          <h3>Education</h3>
+          <p>Central Michigan University &bull; College Of Dupage &bull; Northwestern University</p>
         </section>
 
         <section>
